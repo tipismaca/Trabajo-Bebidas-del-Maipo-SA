@@ -1,7 +1,8 @@
 # Trabajo Bebidas del Maipo S.A.
 
 **Autoras:** Maytte Almuna, Macarena Campos, Darlyn Jerez y Valentina Roa
-En este repositorio se podrán encontrar las entregas establecidas, al igual que el trabajo previo de cada entrega
+
+En este repositorio se podrán encontrar las entregas establecidas.
 
 ## 🚀 Guía de Uso y Ejecución del Código
 
