@@ -1,0 +1,19 @@
+linea,fase,fecha,semana_registro,turno,sku,n_inspeccionadas,n_defectuosas,p,causa_principal,fuera_3s,racha9,decision
+L2,I,2026-08-13,4,B,NEC-D15,207,5,0.024154589371980676,Sello/tapa,False,True,Sin causa asignable confirmada: se conserva en el análisis
+L2,I,2026-08-13,4,C,FUN-B15,209,4,0.019138755980861243,Etiqueta,False,True,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-08-27,6,A,FUN-B30,198,18,0.09090909090909091,Nivel de llenado,True,False,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-07,8,A,CIT-L30,198,15,0.07575757575757576,Etiqueta,True,False,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-07,8,C,NEC-D30,234,18,0.07692307692307693,Etiqueta,True,False,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-08,8,B,FUN-B15,246,20,0.08130081300813008,Etiqueta,True,False,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-08,8,C,FUN-B15,237,21,0.08860759493670886,Etiqueta,True,False,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-09,8,A,CIT-L30,236,20,0.0847457627118644,Sello/tapa,True,True,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-09,8,B,CIT-L30,208,12,0.057692307692307696,Etiqueta,False,True,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-09,8,C,CIT-L30,231,21,0.09090909090909091,Etiqueta,True,True,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-10,8,A,NEC-D30,225,23,0.10222222222222223,Nivel de llenado,True,True,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-10,8,B,CIT-L30,258,17,0.06589147286821706,Etiqueta,True,True,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-10,8,C,NEC-D30,241,26,0.1078838174273859,Sello/tapa,True,True,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-11,8,A,NEC-D15,185,10,0.05405405405405406,Etiqueta,False,True,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-11,8,B,NEC-D30,203,19,0.09359605911330049,Etiqueta,True,True,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-11,8,C,CIT-L15,204,15,0.07352941176470588,Etiqueta,True,True,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-14,9,A,NEC-D30,260,7,0.026923076923076925,Sello/tapa,False,True,Sin causa asignable confirmada: se conserva en el análisis
+L2,II,2026-09-14,9,B,FUN-B15,191,5,0.02617801047120419,Cuerpo extranio,False,True,Sin causa asignable confirmada: se conserva en el análisis

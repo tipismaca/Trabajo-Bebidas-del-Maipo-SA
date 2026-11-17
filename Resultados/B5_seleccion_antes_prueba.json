@@ -1,0 +1,6 @@
+{
+  "modelo": "AutoARIMA",
+  "estrategia": "Bottom-Up",
+  "criterio": "Menor WAPE SKU; desempate sesgo absoluto, MASE y simplicidad",
+  "fin_desarrollo": 136
+}
