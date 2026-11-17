@@ -1,0 +1,13 @@
+Escenario,Línea,Formato (L),Fase,N1,N2,N3,Lectura
+Original,L1,0.5,I,0,1,0,Hay señales; estabilidad no acreditada
+Original,L1,0.5,II,89,3,1,Hay señales; estabilidad no acreditada
+Original,L2,1.5,I,5,0,2,Hay señales; estabilidad no acreditada
+Original,L2,1.5,II,8,1,1,Hay señales; estabilidad no acreditada
+Original,L2,3.0,I,3,0,2,Hay señales; estabilidad no acreditada
+Original,L2,3.0,II,5,2,2,Hay señales; estabilidad no acreditada
+Reajuste condicionado,L1,0.5,I,0,1,0,Hay señales; estabilidad no acreditada
+Reajuste condicionado,L1,0.5,II,89,3,1,Hay señales; estabilidad no acreditada
+Reajuste condicionado,L2,1.5,I,0,1,2,Hay señales; estabilidad no acreditada
+Reajuste condicionado,L2,1.5,II,12,1,1,Hay señales; estabilidad no acreditada
+Reajuste condicionado,L2,3.0,I,0,0,1,Hay señales; estabilidad no acreditada
+Reajuste condicionado,L2,3.0,II,5,2,2,Hay señales; estabilidad no acreditada

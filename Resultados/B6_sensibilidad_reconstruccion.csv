@@ -1,0 +1,37 @@
+Escenario,SKU,Demanda estimada 52 semanas
+Sin recuperar ventas perdidas,CIT-L05,102941.0
+Sin recuperar ventas perdidas,CIT-L15,114955.0
+Sin recuperar ventas perdidas,CIT-L30,22513.0
+Sin recuperar ventas perdidas,FUN-B05,128996.0
+Sin recuperar ventas perdidas,FUN-B15,90729.0
+Sin recuperar ventas perdidas,FUN-B30,7580.0
+Sin recuperar ventas perdidas,NEC-D05,79233.0
+Sin recuperar ventas perdidas,NEC-D15,139996.0
+Sin recuperar ventas perdidas,NEC-D30,32359.0
+Recuperación 50%,CIT-L05,102941.0
+Recuperación 50%,CIT-L15,114955.0
+Recuperación 50%,CIT-L30,22513.0
+Recuperación 50%,FUN-B05,128996.0
+Recuperación 50%,FUN-B15,91227.0
+Recuperación 50%,FUN-B30,9782.4
+Recuperación 50%,NEC-D05,79233.0
+Recuperación 50%,NEC-D15,139996.0
+Recuperación 50%,NEC-D30,32359.0
+Sin corregir posibles unidades,CIT-L05,133114.0
+Sin corregir posibles unidades,CIT-L15,114955.0
+Sin corregir posibles unidades,CIT-L30,22513.0
+Sin corregir posibles unidades,FUN-B05,128996.0
+Sin corregir posibles unidades,FUN-B15,91725.0
+Sin corregir posibles unidades,FUN-B30,11984.8
+Sin corregir posibles unidades,NEC-D05,79233.0
+Sin corregir posibles unidades,NEC-D15,139996.0
+Sin corregir posibles unidades,NEC-D30,32359.0
+Base,CIT-L05,102941.0
+Base,CIT-L15,114955.0
+Base,CIT-L30,22513.0
+Base,FUN-B05,128996.0
+Base,FUN-B15,91725.0
+Base,FUN-B30,11984.8
+Base,NEC-D05,79233.0
+Base,NEC-D15,139996.0
+Base,NEC-D30,32359.0

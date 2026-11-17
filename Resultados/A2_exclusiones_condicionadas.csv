@@ -1,0 +1,10 @@
+Línea,Formato (L),Ronda exclusión,Subgrupo gráfico,ID archivo,Semana,Turno,SKU,Carta,Promedio mL,Rango mL,Evidencia,Hipótesis,Decisión
+L2,1.5,1,1,33,1,C,NEC-D15,R,1505.642,25.950000000000045,N1 y coincidencia en C; sin registro de reparación/calibración,Regulación de presión/boquillas desigual,Excluido solo en escenario condicionado
+L2,1.5,1,29,129,2,C,NEC-D15,X̄,1513.752,9.259999999999991,N1 y coincidencia en C; sin registro de reparación/calibración,Dosificación excesiva,Excluido solo en escenario condicionado
+L2,1.5,1,77,249,3,C,FUN-B15,R,1510.722,28.13000000000011,N1 y coincidencia en C; sin registro de reparación/calibración,Regulación de presión/boquillas desigual,Excluido solo en escenario condicionado
+L2,1.5,1,78,250,3,C,FUN-B15,R,1510.648,27.569999999999936,N1 y coincidencia en C; sin registro de reparación/calibración,Regulación de presión/boquillas desigual,Excluido solo en escenario condicionado
+L2,1.5,1,80,252,3,C,FUN-B15,R,1508.444,26.429999999999836,N1 y coincidencia en C; sin registro de reparación/calibración,Regulación de presión/boquillas desigual,Excluido solo en escenario condicionado
+L2,1.5,2,91,287,4,C,NEC-D15,X̄,1511.316,13.430000000000064,N1 y coincidencia en C; sin registro de reparación/calibración,Dosificación excesiva,Excluido solo en escenario condicionado
+L2,3.0,1,21,57,1,C,FUN-B30,X̄,3023.5879999999997,21.079999999999927,N1 y coincidencia en C; sin registro de reparación/calibración,Dosificación excesiva,Excluido solo en escenario condicionado
+L2,3.0,1,75,203,3,C,FUN-B30,R,3010.4700000000003,43.429999999999836,N1 y coincidencia en C; sin registro de reparación/calibración,Regulación de presión/boquillas desigual,Excluido solo en escenario condicionado
+L2,3.0,1,108,300,4,C,FUN-B30,X̄,3021.058,20.579999999999927,N1 y coincidencia en C; sin registro de reparación/calibración,Dosificación excesiva,Excluido solo en escenario condicionado
